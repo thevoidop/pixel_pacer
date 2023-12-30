@@ -34,7 +34,7 @@ The "Pixel Pacer" game is a simple side-scrolling obstacle avoidance game create
 3. Clone the repository:
    ```bash
    git clone https://github.com/thevoidop/pixel_pacer.git
-   cd pixel-pacer-game
+   cd pixel_pacer
    ```
 
 4. Run the game:
