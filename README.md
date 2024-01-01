@@ -40,7 +40,7 @@ The "Pixel Pacer" game is a simple side-scrolling obstacle avoidance game create
 4. Run the game:
 
     ```bash
-    python pixel_pacer.py
+    python main.py
     ```
     Press the space bar to start playing.
 
